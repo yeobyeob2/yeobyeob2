@@ -13,10 +13,19 @@
    
   <br>
   <br>
-<h3> Blog / SNS </h3>
-  <a href="https://www.notion.so/commit-log-95174f3b2f404acab96a6bf43f141a76"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
-
-
+<h3> 🌐 Blog / SNS 🌐 </h3>
+  <a href="https://www.notion.so/commit-log-95174f3b2f404acab96a6bf43f141a76"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp <br>
+   <a href="https://www.instagram.com/leesangyeob_4/">
+  <img 
+         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://www.instagram.com/leesangyeob_4//"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<br>
+  <br>
+<h3> 🔍 Stat 🔍</h3>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=yeobyeob2&show_icons=true">
+   
+  
 <!--
 **dm-group-3/dm-group-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
