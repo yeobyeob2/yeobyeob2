@@ -14,9 +14,7 @@
   <br>
   <br>
 <h3> Blog / SNS </h3>
-<a= href = "https://www.notion.so/commit-log-95174f3b2f404acab96a6bf43f141a76">
-  <img 
-       src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&link=https://www.notion.so/commit-log-95174f3b2f404acab96a6bf43f141a76&logoColor=white"/></a>&nbsp 
+  <a href="https://www.notion.so/commit-log-95174f3b2f404acab96a6bf43f141a76"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
 
 
 <!--
