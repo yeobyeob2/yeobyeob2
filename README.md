@@ -16,7 +16,7 @@ Welcome to my github!</br>
 <br/>
 
 
-<h2> :pushpin: SNG :pushpin: </h2>
+<h2> :pushpin: SNS :pushpin: </h2>
 <a href="https://www.instagram.com/leesangyeob_4/">
         <img 
                 src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&link=https://www.instagram.com/leesangyeob_4/"
