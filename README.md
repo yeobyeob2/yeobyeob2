@@ -18,9 +18,9 @@ Welcome to my page!</br>
 
 <h2> :pushpin: SNG :pushpin: </h2>
 <a href="https://www.instagram.com/leesangyeob_4/">
-<img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&link=https://www.instagram.com/leesangyeob_4/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img 
+                src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&link=https://www.instagram.com/leesangyeob_4/"
+                style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br/>
 <br/>
 <br/>
