@@ -9,7 +9,7 @@ Welcome to my github!</br>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=Rstudio&logoColor=white">
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
