@@ -1,5 +1,5 @@
 <h1> :hand: Hello, Nice to see you :hand: </h1>
-Welcome to my page!</br>
+Welcome to my github!</br>
 <br/>
 
 <h2>  :wrench: Tech  :wrench: </h2>
